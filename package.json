@@ -1,0 +1,27 @@
+{
+  "name": "allex_ispipetakenserverruntimelib",
+  "version": "1.0.0",
+  "description": "AllexJS server side run-time lib for checking if a pipe is taken",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-serverruntime-libs/ispipetaken.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "server",
+    "side",
+    "runtime",
+    "pipe",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-serverruntime-libs/ispipetaken/issues"
+  },
+  "homepage": "https://github.com/allex-serverruntime-libs/ispipetaken#readme"
+}
